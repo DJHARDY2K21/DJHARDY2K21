@@ -18,16 +18,20 @@ If you require any help please contact me on my discord!
 
 ##### T-Bot features:
 
--[x] Captcha verification,
--[x] Basic moderation commands,
--[x] Basic fun commands,
--[x] Guild settings,
+#### Completed:
 
--[ ] More advanced moderation commands,
--[ ] More fun commands,
+- Captcha verification,
+- Basic moderation commands,
+- Basic fun commands,
+- Guild settings,
+
+#### Upcoming:
+
+- More advanced moderation commands,
+- More fun commands,
 
 
--[ ] Bot dashboard
+- Bot dashboard
 
 # Contact me:
  Discord: Tyler_2021#0403
